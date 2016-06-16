@@ -1,0 +1,29 @@
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\bin\Debug\UAS.exe.config
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\bin\Debug\UAS.exe
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\bin\Debug\UAS.pdb
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\bin\Debug\UAS.xml
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.Resources.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.exe
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.xml
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.pdb
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.RentalMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.Login.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.formKaryawan.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.formPelanggan.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.formMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.formSewaMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS\UAS\obj\Debug\UAS.vbprojResolveAssemblyReference.cache
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\bin\Debug\UAS.exe.config
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.exe
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.xml
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.pdb
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.vbprojResolveAssemblyReference.cache
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.formKaryawan.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.formPelanggan.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.formMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.formSewaMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.Login.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.RentalMobil.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.Resources.resources
+D:\0.1 Data_Kuliah\Semester_5\0.1 Pemrogaman Basis Data\UAS_PBD\PBD_UAS_EXECUTE\UAS - Copy (2)\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
